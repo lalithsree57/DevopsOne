@@ -9,6 +9,5 @@
   <body>
     <div id="root"></div>
 	<h1 style="color: violet; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS + TOMCAT + SONAR + NEXUS</h1>
-	<h1 style="color: violet; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS + TOMCAT + SONAR + NEXUS</h1>
     <script type="module" src="/src/main.tsx"></script>
   </body>
